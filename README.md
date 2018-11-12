@@ -6,3 +6,5 @@ Logo detection and brand recognition
 2. `python gen_train_valid_test.py`: Generate(Split) train/valid/test set from the dataset.
 3. `python train_deep_logo_cnn.py`: Train the convolutional neural networks and save the trained model to disk.
 4. `python test_deep_logo_cnn.py`: Test the trained model.
+
+# Reference: https://github.com/satojkovic/DeepLogo
