@@ -6,4 +6,4 @@ CLASS_NAME = [
     'Nike', 'Pepsi', 'Porsche', 'Puma', 'RedBull', 'Sprite', 'Starbucks',
     'Texaco', 'Unicef', 'Vodafone', 'Yahoo'
 ]
-PMAK-5da98d1c86e7e0003c79f70b-a6722f802a0090a9c1d238600e93ef9872
+PMAK-5da98cc8032add002a9f910b-317566983394a7058a64ede7571f5fd132
