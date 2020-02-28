@@ -8,4 +8,3 @@ Logo detection and brand recognition
 4. `python test_deep_logo_cnn.py`: Test the trained model.
 
 Reference: https://github.com/satojkovic/DeepLogo
-PMAK-5e26fbd89331ad00305c1eb0-58ac2f59dccc77351a181de58d558050bd
